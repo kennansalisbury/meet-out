@@ -14,8 +14,8 @@ This app uses Typscript, Javascript, MongoDB, Express, React, and Node. In addit
 
 > Note: The back-end server file is deployed to https://meeting-out-server.herokuapp.com.
 
-#### My Contributions:
-I led the definition of the Mongoose + TypeScript data models on the back end as well as the implementation of the front end calendar where users can browse public activities, view details like location and attendees, and join or leave other public events
+#### My Key Contributions:
+I led the definition of the Mongoose + TypeScript data models on the back end, as well as the implementation of the calendar functionality on the front end - including the ability for users to browse public activities, view details like location and attendees inside modals, and join or leave other public events as attendees.
 
 ## User Profile:
 
